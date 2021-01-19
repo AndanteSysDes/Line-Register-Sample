@@ -1,0 +1,7 @@
+Flask
+sqlalchemy
+flask-sqlalchemy
+flask-migrate
+pymysql
+line-bot-sdk
+gunicorn
